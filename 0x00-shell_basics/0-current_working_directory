@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 pwd
+=======
+#!/bin/bash
+pwd
+>>>>>>> 07d77a732019cab7b77793646d7c5889e12560df
