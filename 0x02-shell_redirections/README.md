@@ -1,2 +1,1 @@
-#!bin/bash
-"Hello, World"
+My hello world commit
